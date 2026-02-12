@@ -61,6 +61,7 @@ htmlcov/
 *.bbl
 *.blg
 *.xdv
+*.pdf
 
 # MiniZinc
 *.fzn
