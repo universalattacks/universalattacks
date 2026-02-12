@@ -195,6 +195,3 @@ If you use this code in your research, please cite our paper:
 
 This project is licensed under the GNU General Public License v3.0 (see [LICENSE](LICENSE))
 
----
-
-**Note**: This repository contains the code for the published research. For the complete paper including detailed proofs and additional results, please refer to the publication.
