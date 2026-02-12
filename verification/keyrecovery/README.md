@@ -244,12 +244,6 @@ To create a custom attack configuration:
 
 Distributed under the GNU General Public License v3.0. Refer to the `LICENSE` file for the full text.
 
-## Contact
-
-For questions, issues, or contributions, please contact:
-- **Hosein Hadipour**: 
-- **GitHub Issues**:
-
 ## Acknowledgments
 
 - Orthros PRF specification and design
